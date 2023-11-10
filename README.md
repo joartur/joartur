@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Under construction: Systems Development Student, looking to perfect my art of creating incredible digital solutions. 📚 <br>🌟 Code Apprentice in Search of Great Lines of Code 🚀<br>💡 Turning bugs into features, and problems into opportunities. 🐛🛠️ <br>🚧 Building Lines of Code and Dreams 🚧<br>🔧 Developing the future, one code at a time 🌐💻 <br>#CodingLife #FutureDeveloper #CoderInTraining #TechJourney #NeverStopLearning
+👨‍💻 Systems Development Student, looking to perfect my art of creating incredible digital solutions. 📚 <br>🌟 Code Apprentice in Search of Great Lines of Code 🚀<br>💡 Turning bugs into features, and problems into opportunities. 🐛🛠️ <br>🚧 Building Lines of Code and Dreams 🚧<br>🔧 Developing the future, one code at a time 🌐💻 <br>#CodingLife #FutureDeveloper #CoderInTraining #TechJourney #NeverStopLearning
 
 
 # 💻 Tech Stack:
