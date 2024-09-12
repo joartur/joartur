@@ -57,7 +57,7 @@
 </div>
 
 ###
-
+![joartur's Stats](https://github-readme-stats.vercel.app/api?username=joartur&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <div align="center">
     ![joartur's Stats](https://github-readme-stats.vercel.app/api?username=joartur&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 </div>
