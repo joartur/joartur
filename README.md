@@ -58,14 +58,12 @@
 
 ###
 
-<table align="center">
-  <tr>
+<div align="center">
     ![joartur's Stats](https://github-readme-stats.vercel.app/api?username=joartur&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  </tr>
-  <tr>
+</div>
+<div align="center">
     ![joartur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joartur&theme=tokyonight&hide_border=true)
-  </tr>
-  <tr>
+</div>
+<div align="center">
     ![joartur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joartur&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-  </tr>
-</table>
+</div>
