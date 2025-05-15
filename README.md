@@ -80,12 +80,8 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
 
 <img src="https://raw.githubusercontent.com/joartur/joartur/output/snake.svg" alt="Snake animation" />
 
-###
 
 ###
