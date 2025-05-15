@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joartur&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200" alt="Stats graph"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -15,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joartur&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200" alt="Stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joartur&theme=tokyonight&hide_border=true" height="200" alt="Streak graph"  />
 </div>
 
 ###
@@ -68,10 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
+###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joartur&theme=tokyonight&hide_border=true" height="200" alt="Streak graph"  />
-</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joartur&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200" alt="Top Languages graph"  />
 </div>
