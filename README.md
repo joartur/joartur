@@ -90,6 +90,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joartur.joartur&"  />
 </div>
 
+                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joartur.joartur&)
+
+
 ###
 
 
