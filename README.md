@@ -86,9 +86,13 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joartur.visitor-badge.issue.1"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joartur.joartur&left_color=darkslateblue&right_color=lightseagreen"  />
 </div>
+
+###
 
 ###
 
